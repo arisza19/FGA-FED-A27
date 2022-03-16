@@ -87,7 +87,8 @@
     }
 
     .image h2 {
-        font-size: 28px;
+        font-size: 27px;
+        color: blue;
     }
 
     /* --BODY */
